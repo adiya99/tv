@@ -1,0 +1,106 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="FIFA1" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-id="FIFA2" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 2
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 tvg-id="FIFA3" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 3
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+
+#EXTINF:-1 tvg-id="FIFA4" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 4
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="FIFA5" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 5
+http://66.102.126.10:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-id="FIFA6" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 6
+http://66.102.126.10:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-id="FIFA7" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 7
+http://103.204.43.87:8080/live/1/1/266.m3u8
+
+#EXTINF:-1 tvg-id="FIFA8" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 8
+http://103.204.43.87:8080/live/1/1/264.m3u8
+
+#EXTINF:-1 tvg-id="FIFA9" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 9
+http://103.204.43.87:8080/live/1/1/313.m3u8
+
+#EXTINF:-1 tvg-id="FIFA10" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 10
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFA11" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 11
+http://s1.atr.play.kz:8080/live/7gKxUGwFdd/geWbXVKJbJ/1680.m3u8
+
+#EXTINF:-1 tvg-id="FIFA12" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 12
+http://s1.atr.play.kz:8080/live/7gKxUGwFdd/geWbXVKJbJ/1687.m3u8
+
+#EXTINF:-1 tvg-id="FIFA13" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 13
+http://s1.atr.play.kz:8080/live/7gKxUGwFdd/geWbXVKJbJ/1688.m3u8
+
+#EXTINF:-1 tvg-id="FIFA14" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 14
+http://s1.atr.play.kz:8080/live/7gKxUGwFdd/geWbXVKJbJ/1691.m3u8
+
+#EXTINF:-1 tvg-id="FIFA15" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 15
+http://s1.atr.play.kz:8080/live/7gKxUGwFdd/geWbXVKJbJ/1765.m3u8
+
+#EXTINF:-1 tvg-id="FIFA16" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 16
+http://s1.atr.play.kz:8080/live/7gKxUGwFdd/geWbXVKJbJ/1487.m3u8
+
+#EXTINF:-1 tvg-id="FIFA17" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 17
+http://212.154.219.170:80/live/doma/doma/153.m3u8
+
+#EXTINF:-1 tvg-id="FIFA18" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 18
+http://212.154.219.170:80/live/doma/doma/152.m3u8
+
+#EXTINF:-1 tvg-id="FIFA19" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 19
+http://212.154.219.170:80/live/doma/doma/151.m3u8
+
+#EXTINF:-1 tvg-id="FIFA20" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 20
+http://212.154.219.170:80/live/doma/doma/150.m3u8
+
+#EXTINF:-1 tvg-id="FIFA21" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 21
+http://91.215.208.45:8080/live/doma/doma/55.m3u8
+
+#EXTINF:-1 tvg-id="FIFA22" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 22
+http://91.215.208.45:8080/live/doma/doma/16.m3u8
+
+#EXTINF:-1 tvg-id="FIFA23" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 23
+http://91.215.208.45:8080/live/doma/doma/12.m3u8
+
+#EXTINF:-1 tvg-id="FIFA24" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 24
+http://91.215.208.45:8080/live/doma/doma/13.m3u8
+
+#EXTINF:-1 tvg-id="FIFA25" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 25
+http://91.215.208.45:8080/live/doma/doma/4.m3u8
+
+#EXTINF:-1 tvg-id="FIFA26" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 26
+http://91.215.208.45:8080/live/doma/doma/10.m3u8
+
+#EXTINF:-1 tvg-id="FIFA27" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 27
+http://91.215.208.45:8080/live/doma/doma/4.m3u8
+
+#EXTINF:-1 tvg-id="FIFA28" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 28
+http://lix1.otvcloud.com/otv/2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFA29" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 29
+http://lix1.otvcloud.com/otv/3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFA30" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 30
+http://89.187.173.102:8080/play/a0p3/index.m3u8
+
+#EXTINF:-1 tvg-id="FIFA31" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 31
+http://89.187.173.102:8080/play/a0p4/index.m3u8
+
+#EXTINF:-1 tvg-id="FIFA32" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 32
+http://89.187.173.102:8080/play/a0p5/index.m3u8
+
+#EXTINF:-1 tvg-id="FIFA33" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 33
+http://89.187.173.102:8080/play/a0p6/index.m3u8
+
+#EXTINF:-1 tvg-id="FIFA34" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 34
+http://89.187.173.102:8080/play/a0p7/index.m3u8
+
+#EXTINF:-1 tvg-id="FIFA35" tvg-logo="https://img.icons8.com/color/48/000000/fifa.png" group-title="World Cup 2026",⚽ FIFA World Cup 2026 - Channel 35
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01197-eldoce-ssai/playlist.m3u8
