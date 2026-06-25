@@ -3,11 +3,12 @@
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=3
 #EXTINF:-1,PIALA DUNIA 2026 C2
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
-
 #EXTINF:-1,PIALA DUNIA 2026 C3
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10043
 #EXTINF:-1,PIALA DUNIA 2026 C4
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
+#EXTINF:-1,PIALA DUNIA 2026 C5
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=98
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/magna.png?raw=true" group-title="Indonesia",Magna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
