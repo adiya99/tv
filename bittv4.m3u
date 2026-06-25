@@ -29,6 +29,126 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA7qSD5p4GXRw29qwq1o5SwOZS0g0R9LeKbGucDCMLPtJxEuuwQsYtIwwjtqY_QqGzKkqA7Bk-up1JhFasm0lELKOPPNJZFP_Cf2gwhe2hXX0yAHwcQe2wzAnGfb9ijFoAYw1qJpAbufr_b6X2l1KTxUgxvOTVU5M3hBzKnjGCreQ3XAsAr6s8vTgT1rNA/s700/CNN%20INDONESIA.png" group-title="Channel Lokal",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq7-hde4OyKcKX_jYXUfuyTNsRqPvXKNzeoyHQ_JO4NTvUoCru8XnS2MUDA51mE6PsL-FYHNzYGBtwxxbLc6R93M9lXlmbXxjwqN2xaXUr6xJ1yRqr4cYc9Qh-rLdvCEiQbAIg2K-IG2MFWa6hY73zuAOLpDXEqRTpMpPiGRU6xIw4Ss8epm96G6fiSjVr/s700/ABTV%20BLITAR.png" group-title="Channel Lokal",ABTV Blitar
+https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKqEFzWLNRa44-PczcXeLmR9IdyN8e-G3p-5cPAvZrmiQd2Jjtsrl3VOPGdV5P6jdUGhPfMxuoPDU_F953moI8FcPVMODAS7CfETkoYqPPFx0URw-FMoVHvwofCEtckm6QurEavKk-GZRHA0hgyb0-r9jnILDwCCDpD9oBC0JluDGzX2-AcOTs0c95Yaex/s700/JITV.png" group-title="Channel Lokal",JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
+
+#EXTINF:-1 group-title="Channel Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1y-3tPdycdMwVhJC77HqH7zfP8L4GwrJ2yf5P0AO6e7WTuXCsq5FhZGOg6oz2qrensFWTqNOul8YNPGQAd8nPRCBF5O83oe1W7QFhG5VK_PSe3NwjJi3z8OjQwmsVM4sfcf98CSV8cCVMGFAdRqERAe7JEs7IiELy-tsmC_T3M5xI42M9GCnI94a3awR/s700/DTVI.png",DTVI
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://e.siar.us/live/dtvi.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfvPzWNOz8S8LW7Pbc2A6KS6KX8NFcFEcEbwM0-GYgsue6WX20suR9y88DEGHGlw7pDUp8BwnR-XrGDtCvKFHIBMo0h8R5Tw9TzMIpLALXuS0FoHCKRB4R-QLDQqKSN7et5Om_UHgOq3vOlswqRGfhuVWzK6R8YbTVFz7aWIcZLrIg4f0qzIL94utpAWxj/s700/DENS%20PLAY.png" group-title="Channel Lokal",Dens Play
+https://op-group1-densxvisionhd-1.dens.tv/h/h225/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Dens Showbiz" tvg-name="Dens Showbiz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuBTowYF5Zl0B22zekD9cjODl7YJX9aylHDthoN2PTyeaeCjgPTvmD-oVa4r_POexb6JmLrz0aFbLzuYoB8bRrRuTXDSKhnCM4zg8RQ_dUZ6m3eBs_lkb_KH5GK_RKPrFRvDoLoqz2Mvzqis6lblMbgxyEtodzVMS_wmLmwu-OiKpE1B8rCTmMcoOCijnG/s700/DENS%20SHOWBIZ.png" group-title="Channel Lokal",Dens Showbiz
+https://op-group1-densxvisionhd-1.dens.tv/h/h203/index.m3u8
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZ3pOp0SBXsCwOfSieDCCpnl30dlBp8luDGJe6KgV_N5y6OiLMeXsklLwrkqKRO-3aWRfFW49jVPSiB_Y_ayssm0L-0xnfJbzgIQjdheLbLpoQMng2kFF21hX9nifDbgEdw4WrI0PqbtCQiFWTz1OuXBE6Ed_tNKWmJrDrt3BbmYjh4Z9Xh-G39BAe54v/s700/DENS%20KNOWLEDGE.png" group-title="Channel Lokal",Dens Knowledge
+https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&userid=lite&chname=DensKnowledge
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWNFwC7xLliDm-DUjXKufLVA4rIiqf-w6YiJmlqeVFkqeyqSBRe5QbxGp07ve2JHudbnmcCBxHJQPcTef86vOcPshyphenhyphenc5wEY0yD6QGYKd1wSfuk0X8yHQuCwCJQN3eHGDq5Jdu7f5amZY7yKCPVhOvaSiluK8meNLMwhBCjG_0GE6L5RtBuWTBqm-GbdPzP/s700/DENS%20LIFE%20&%20STYLE.png" group-title="Channel Lokal",Dens Lifestyle
+https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-name="DENS Food Channel.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZaGy7vzdoJFCCOgOSNqp7sdvy2D64Ha3733pwSb1nraHfM6aR_TfbIN_abD7sv2CIJLXjT-Fbq-emdhvRi1PrInm4U7l1mTqmHZcZWV2b7MXa75jfUWaZaQ5_lh2HKuLJgXaq8kXTMOkoL4ApVx-RYfRMaa903w5UgFHP2vJ-b8T3ZZgeMf2CAip-o_xJ/s700/DENS%20FOOD%20CHANNEL.png" group-title="Channel Lokal",Densfood
+https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXPoBP5WGHrhneUhZQQ-sY9qKe1Q7OAg1HTClUg7M6uvNJY1hhW9Yn6tNTLuh5Ind_HqF0bkw0geWEhhyOBii5yVtVO01zan8OeAAtZfEqOb6tKs_l-eafkElwRyLCKrmC2Gn-Gt6qWIf73so3Is36QjZD40nC7U4Y97NWxxC8jACrAg_toX1PN8wY04o/s700/RakutenTV.png" group-title="Channel Film", Rakuten TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGNvDieCAmknLUfCspLBqUWzAlF-UE3L32DsgIkhVWMPxNAKBoSiMX5K4BfoopMqO4JdfpA3eYoIKl-J1dL8RUSamiTRYVPmdC9x_JZQubP5Oe2m1I8mVrupp0d-_vs7pzc4wiEJ1QxLBUE-oYQS707EI8J7CfKEns7eQI51guOAZOcR9EqLM9i7wPeZ4/s700/20251207_001445.jpg" group-title="Channel Hiburan",Kpop Play
+https://live.24hrkpop.com/hls/3/stream.m3u8
+
+#EXTINF:-1   tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeDau0c1rzt6Cibo8JhcKpjPLFnYsn2n8y0Av0J1jSmVv15V6yQZOf0UcnzsYHyOaG8KLeaho0a-gYdIR6UWtEAApYX4R9MNpe6gk33T6KBpBZFb2PjLWn-NfOFqAqKTDrjqB9j1thusFLSr_YheajEDHPJRt9y1q0M-dSVqO3GMsPmoIaWIwuaV4uA3Q/s700/20251207_001416.jpg" group-title="Channel Hiburan",Play Music 
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyGa59QzxXZV-2KoHHPqB7PJitYDC54dshAS8CdgManEgm0jikLf3Y2LdIztSZ4eHodqSahYx29N08xLC1mv1hB5KETubqZyzjjYH-KHCZp0edLjg7d5oZvVJN8cqc3Ct6mVnvf52Xkbzd-pp7fRxDy4KmN2D82lgr6XtCSmV4I5rWIJMUQrLGCEl_2K3G/s700/NATIONAL%20GEOGRAPHIC.png" group-title="Channel Pengetahuan",National Geographic
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+
+#EXTINF:-1 group-title="Channel Pengetahuan" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhBonGjUCzL-ZOHd-HPGhw4mL9kMMVZfkbMLt3sP41Sa5fTp_hWRiUXg0qm9kJU3HG9QQiTPPAyFCrU23DQEhvjns4YczJMVQ8dHKCE2CLlulSpdQe11KnE2nSwdodznJw40E44N2RQmqIRHAS_lrAGgxVgTki7z4M2EpR1DWvLdOYQ4-IlwC24JASKYd0/s700/NAT%20GEO%20WILD.png",Nat Geo Wild
+http://84.17.50.102/natgeowild/index.m3u8
+
+#EXTINF:-1 group-title="Channel Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9kiAIfaEOE8IogfS79HFPt1XlZZ1Fv9wKIoVTqt6FVYoSbyUbcInMw40n5DnmVz5Ly1whmAbkZBgBIOvY0twASXQ641GdaUmX4DdtNMMufeFf_M6wPsxhq3gLYDCVlA0VEAuKY6l_cSc3Izv1g2DcHQMBf3jJJrNEy2x68ncGMmG5HuaVqYNLxnwpZvo/s700/UFC.png",UFC TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg19TRUrV92bsD49mKxLc_F9ZIXzgcrGLcssdZFAlrq1J9JdT-2M5UX0U7EUPRDp-AKz7Fq9DFyM60przslpZjardICsiEHiJVGR3iVIBNshksEgOcounejGwim4vEZrzEbdFNMr2KvITuVLQmuJEUg061DIxvP3PF6PyrWiH8hJIpkkjuS7b8WkwbD-N8M/s700/DAZN.png" group-title="Channel Olahraga", DAZN Combat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 group-title="Channel Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWQ84jW_0137UxufDZCQrqJAObB0BIWzsW63cQi82xpr9JKZBPLhKyrIeFZV34cR9yxXO0wz53En49I9bexOLVC0F9-2ls3w2_SvBCQ0PrqgB8aTPaTsHtwTY8PnO1L815EUqGXKDOQNALv-h9vwSIugMHALteahi6acSWhVQfK2xlnYL-tOrs9eSDvg0/s700/FIFA+.png",FIFA+
+#https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWXsASR-STL_oWcObtByBxSe8B-qqIAItgGxaw87-xvdLA9tSJ8sH3RbBVN06iVeMeKXSN5aRJEQwdzRc5PHGTa7nV7VWtz9mjLWaezXByqDl_q_O1ruKTHgCcyyaFJ5N5xk0_kQWf080CpugwbWRrkxm6HpzbdVKI8_JS5mAFT_MA-IukmmUCbZt7TwYx/s700/NBA%20PHILIPPINES.png" group-title="Channel Olahraga",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
+
+#EXTINF:-1 xui-id="2540" tvg-id="" tvg-name="FISHING NETWORKS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Yeu2lxE4OwL1sbaFJ8l1dTtSiyIaechscm9P3mZSGZpFttnSTzfeIPzOj7PUV3xQqF11v5KSm1Y6mdMO4sv4_NrE1rbl3LpFbn1_9eYG7SYta3jqiosnUfmEft2l4e9eolU_i180VZfiT1R1wg2Y0BKfUl26bDNq-N2RMC2c77UB1LcJMCOIvViLDyk/s700/FishingTV.png" group-title="Channel Olahraga",Fishing TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq-fjC9M_pToKpz-XhIGBwrShV-BA3yFMsNgp5MlqYxQ51Vkn81Kx_TKwgGcWT9Kvlu93x6H1xJ23nymWr_C8MF3flyea-AoURR9loeGXZyf0upGScg7Aui6cZ8cDJKwdPX8bDoDCWY_K22GJIT7CZfCM69FczQg16KbsW-mb1KYjRGOR5Y_3-JsGd0uDF/s700/NICK%20JR.png" group-title="Channel Anak",Nickelodeon Jr.
+http://84.17.50.102/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfySBAhsmn9UR23UmYoq1gy34zd-LG-TL916KkuIOr0Zg1WARObs5eDpWidxdDJ5LqqTqO_G8bMx4RrVEc_WnDR21E349fdEZm72A865ktF98Fh5649d5h-CUGKhr3KXqvxchNmFsAwyhI8Lg2yeVJ2aUN6CUwyQ-SE9yiSsEY9PkjgAfmxUWTHOjGMSJK/s700/MYKIDZ.png" group-title="Channel Anak", My Kidz
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2SznA3L2cURUvrXOigjzj6XP8fgPJR_ELRaSL2QZL5azRyinXRdNC6jFmmC8gtkZTLh5O0j6ynBBJ4TFsnpGYht0aRZw7b-jq-gHvjgXfP3Y-MDtUWycHFkWVkoBStB4BmvNwQemh2AfevgWltjeuoTdZ2PNemmwX44-7YDLTy6eWWgrNfR8iWkmx2AMF/s700/ZOOMOO.png" group-title="Channel Anak", Zoomoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_T0l_3bIUfn5V9-b_uuHGEjNYpo3WlbFFa5lBcQzS2O5uqbQat5G0sCowtbyJBGrrSkWe2oa1zeLwU_ERHNEZ2Kxt_87NdV5mfs4hoh8QoskVof1W8WzpM9nqCEAGkEV2NyjK_xx0Sihwb1UWvMZl6Awxz9wMXeQp35N-WY5hwmjGKA3rzgdC4I60l3jD/s700/MOONBUG.png" group-title="Channel Anak",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Channel Anak" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjc3uin9CEDW07GE6B8ejoI6BP40hUtzSKqx9ZaEOc46RIjLCTe62pntl7dy4q0o_VySm06OF7dk-E5PicrODlqI9myRgSY2n0bsnmmukOWBrArE5ow8TikAZjkgDVNJLnlOjeS8GjMal7gNc9lXSVMufqEldrg7qrKSlDpVcJu_Rmait6qUI-yMTEgUGg/s700/PBS%20KIDS.png",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 group-title="Channel Anak" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX7H5U3AAoOIVnXjILGM1a96O7BYlKTsENpQmHUOVZ3Ttz1lJA3uru0uC9O-RFs8ZDdDj5Ro6ZmeuviynnXB82xmLw18lu2h7c7m3SdlNUeB_A-7YxiuWjHXGgEz0fHN17FR0NEDsvy9BiU5TnTTtIkykbFkct_yZDzwdTmVYzA4oGHPFxJEN8OSAAo2MY/s700/PINKFONG%20TV.png",Pingfong TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Peppa pig" tvg-country="US" tvg-language="English" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGoqNd-UcjTwMMLiEJSGnBC3hQKzEIh6W0KIl8EClYFdYc-AkPaX4LaBPFn-609RUAVF0I75yj7yhPfzLgTiCx3ZIl6e8K_dmLa0kS_ZPjK36MJzsWiQ0XbUtGSDUevkbMmU29w-WWTJPIk6fV2R8OHk7m9WEBSTxzObXOqMYk8iMfVmzymvXfzl7Wi0/s700/20251207_001809.jpg" group-title="Channel Anak",Peppa Pig
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="Channel Anak" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZhYGXmsUvyLTzgqc45PK-fsOxYKdM0erdKWvQ-AKOkWmSHcywkW8Ch9CsTZWvCrFwsT0XfkEkKfbi-2He2DiWKKpiyPe30-4JE8WB7E6bYiYqZTnn2mI2Fl9uwcLgT7otKocdDuGLs63QV1gxaM9BMvyhMW7f6x05jSA20wUt7NoKTnBENGWoC4G3FsM/s700/ABCKids.png",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVW5_nDxN_LepqZPPnJNlIVflbaZtoCeToSkUIAhBws-F6_e-Z_Q8PT3R_EApdzU0eKRMT47g5DFf6100CtGcSOd40P88o5FB7U8WN5p8Zvn4DQy5CmvPPdwoqYiJLvdyqR_9Y3vuldQ9nE9oMja-l5R7RT1_te0ZTvCKkgfk01syht5ZmkaP3jzGfaicY/s700/DISNEY%20CHANNEL.png" group-title="Channel Anak",Disney Channel
+http://84.17.50.102/disneychannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3p12wNRmxJGkz1FNevGXcidmegtXZv_FQ4ld6oUVtPw2i6C4AR3UXuFSqaoCy_P3VmLFgSzqCGRVBd3nIVNaTkETYQl7ZTWWTuQ2A-BCr7EW3W2jjjD_ohlLnbFaHtbE81Zy2sRHHws1vBKwOnZbpw-ORA11kqD3rw93Ju43ojqBwiCI_DGpqAv8APME/s700/20251207_001716.jpg" group-title="Channel Anak",Disney XD
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/57420.ts
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ARPazk3dre3aAjOOapxiF-oNX92rqjwGkVR_eyThkQ3cy1-idXgqmH2Lu3jTWLtFcMLbTPmpxgnN24-v9LZGxQKNeRq6of0UkKhcFlJEokJnKZDGwk-MDYNWrBP0qqRqOK-oYflphiqrMKHRu6XGFllWOyZG5wIhO9jyyJbguR07W1Sul-rmZ9bRzE7f/s700/DISNEY%20JUNIOR.png" group-title="Channel Anak",Disney JR
+http://84.17.50.102/disneyjunior/index.m3u8
+
+#EXTINF:-1 group-title="Channel Anak" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd40QeFWXNYT09kSs6GeJrR0vYNwK4hdaNHGkhyBXDeLJ3vdjhi4Dhrz-e_H0mPjENDFunYD-WxrzQ_FKlGgLQoGLYKNJi6hR8D8L8ztHs1i2tZeywE9reuUHTFIMa7Yce4iCvDNxkyfpzqX3IbakzWo7n5e6pJahjZJnohyuuB8-k-l9b8YHzDgwsRFSB/s700/EBS%20KIDS.png",EBS Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0DJDXYBsLkW4y7ynxvLVepqC2cKFozV7ZR0sQWq8TvhOie9wEmfceR9GA-w2xnK3M95DukSjm8Ft3EzNC8qLACD0fyGRFFSSdUvH-PF8aMGQ3yFrYU9JrHnkk-jidMQVkYFZCh0VHGHzbCuiQ289t9C5ffAeWuWNWr9AmcEgffyErKO9WagrrvgSWxE/s700/BBCKids.png" group-title="Channel Anak",BBC Kids
+https://d26xbpvvy0tj0m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ym2cgz6gmgem/playlist.m3u8
+
+#EXTINF: -1 tvg-id="baby first" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhumu0eMvrZMySvhJaXb0smPpzueBbSFTzZh6m3F45Ygr_OE2K__hg1DAI7Bo8IRYw5dsLm7_z3KPkv2klwIyrpSiXW46G49Iw7voc37wjwKo1U6BT5rZ7qBtyZMiXtEbFSpyOSHKYcQ_U9VQSN3pomFJPQ54kN3pqOtaLcD6ryHMwwRROra6_jA20gNTSV/s700/BABY%20TV.png" group-title="Channel Anak",Baby First
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#https://dl.dropboxusercontent.com/scl/fi/kf1cbn05ifbtluj16z7nf/babyfirst.m3u8?rlkey=gy08vupikxih1cefbb35qfsv9&amp;st=trz0g01o
+
 
 #EXTINF:-1 tvg-id="AFBTVKupang.id@SD",AFBTV Kupang (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://afbtvkupang.com/
