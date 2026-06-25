@@ -24,6 +24,10 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=109
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/bGHZKTN.png", NHK World Japan (vps)
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=106
 
+EXTINF:-1 tvg-id="Trans7.id@SD",Trans7 (720p)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id@SD",Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/magna.png?raw=true" group-title="Indonesia",Magna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
