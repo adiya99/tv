@@ -29,11 +29,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA7qSD5p4GXRw29qwq1o5SwOZS0g0R9LeKbGucDCMLPtJxEuuwQsYtIwwjtqY_QqGzKkqA7Bk-up1JhFasm0lELKOPPNJZFP_Cf2gwhe2hXX0yAHwcQe2wzAnGfb9ijFoAYw1qJpAbufr_b6X2l1KTxUgxvOTVU5M3hBzKnjGCreQ3XAsAr6s8vTgT1rNA/s700/CNN%20INDONESIA.png" group-title="Channel Lokal",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq7-hde4OyKcKX_jYXUfuyTNsRqPvXKNzeoyHQ_JO4NTvUoCru8XnS2MUDA51mE6PsL-FYHNzYGBtwxxbLc6R93M9lXlmbXxjwqN2xaXUr6xJ1yRqr4cYc9Qh-rLdvCEiQbAIg2K-IG2MFWa6hY73zuAOLpDXEqRTpMpPiGRU6xIw4Ss8epm96G6fiSjVr/s700/ABTV%20BLITAR.png" group-title="Channel Lokal",ABTV Blitar
-https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKqEFzWLNRa44-PczcXeLmR9IdyN8e-G3p-5cPAvZrmiQd2Jjtsrl3VOPGdV5P6jdUGhPfMxuoPDU_F953moI8FcPVMODAS7CfETkoYqPPFx0URw-FMoVHvwofCEtckm6QurEavKk-GZRHA0hgyb0-r9jnILDwCCDpD9oBC0JluDGzX2-AcOTs0c95Yaex/s700/JITV.png" group-title="Channel Lokal",JITV
-https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
 
 #EXTINF:-1 group-title="Channel Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1y-3tPdycdMwVhJC77HqH7zfP8L4GwrJ2yf5P0AO6e7WTuXCsq5FhZGOg6oz2qrensFWTqNOul8YNPGQAd8nPRCBF5O83oe1W7QFhG5VK_PSe3NwjJi3z8OjQwmsVM4sfcf98CSV8cCVMGFAdRqERAe7JEs7IiELy-tsmC_T3M5xI42M9GCnI94a3awR/s700/DTVI.png",DTVI
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -51,16 +46,6 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h203/index.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZ3pOp0SBXsCwOfSieDCCpnl30dlBp8luDGJe6KgV_N5y6OiLMeXsklLwrkqKRO-3aWRfFW49jVPSiB_Y_ayssm0L-0xnfJbzgIQjdheLbLpoQMng2kFF21hX9nifDbgEdw4WrI0PqbtCQiFWTz1OuXBE6Ed_tNKWmJrDrt3BbmYjh4Z9Xh-G39BAe54v/s700/DENS%20KNOWLEDGE.png" group-title="Channel Lokal",Dens Knowledge
-https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&userid=lite&chname=DensKnowledge
-
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWNFwC7xLliDm-DUjXKufLVA4rIiqf-w6YiJmlqeVFkqeyqSBRe5QbxGp07ve2JHudbnmcCBxHJQPcTef86vOcPshyphenhyphenc5wEY0yD6QGYKd1wSfuk0X8yHQuCwCJQN3eHGDq5Jdu7f5amZY7yKCPVhOvaSiluK8meNLMwhBCjG_0GE6L5RtBuWTBqm-GbdPzP/s700/DENS%20LIFE%20&%20STYLE.png" group-title="Channel Lokal",Dens Lifestyle
-https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-name="DENS Food Channel.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZaGy7vzdoJFCCOgOSNqp7sdvy2D64Ha3733pwSb1nraHfM6aR_TfbIN_abD7sv2CIJLXjT-Fbq-emdhvRi1PrInm4U7l1mTqmHZcZWV2b7MXa75jfUWaZaQ5_lh2HKuLJgXaq8kXTMOkoL4ApVx-RYfRMaa903w5UgFHP2vJ-b8T3ZZgeMf2CAip-o_xJ/s700/DENS%20FOOD%20CHANNEL.png" group-title="Channel Lokal",Densfood
 https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
 
