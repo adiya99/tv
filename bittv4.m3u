@@ -1,28 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.mra.my.id/wc26.jpg",PIALA DUNIA 2026 C2
+#EXTINF:-1 tvg-logo="https://bit.mra.my.id/wc26.jpg",PIALA DUNIA 2026 C1
 http://82.156.243.185:36888/av3a/cctv5n.m3u8
 
-#EXTINF:-1 tvg-chno="188" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Arabic Feed (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Arabic Feed (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streams.center
-#EXTVLCOPT:http-origin=https://streams.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTINF:-1 tvg-logo="https://bit.mra.my.id/wc26.jpg",PIALA DUNIA 2026 C2
 https://edgestreams.pro/hls/eJmauBDCIf.m3u8
 
-#EXTINF:-1 tvg-chno="192" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Belgium vs Senegal 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Belgium vs Senegal 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTINF:-1 tvg-logo="https://bit.mra.my.id/wc26.jpg",PIALA DUNIA 2026 C3
 https://www.rtmpcdn.com/live/cctv5.m3u8
-#EXTINF:-1 tvg-chno="196" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Bosnia-Herzegovina at United States | Arabic 1 (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Bosnia-Herzegovina at United States | Arabic 1 (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streams.center
-#EXTVLCOPT:http-origin=https://streams.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+
+#EXTINF:-1 tvg-logo="https://bit.mra.my.id/wc26.jpg",PIALA DUNIA 2026 C4
 https://mainstreams.pro/hls/eJmauBDCIf.m3u8
 
-#EXTINF:-1 tvg-chno="197" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Bosnia-Herzegovina at United States | English 1 (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Bosnia-Herzegovina at United States | English 1 (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streams.center
-#EXTVLCOPT:http-origin=https://streams.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTINF:-1 tvg-logo="https://bit.mra.my.id/wc26.jpg",PIALA DUNIA 2026 C5
 https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
 
 #EXTINF:-1 tvg-chno="200" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Bulgarian Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Bulgarian Feed (STRMHUB)
@@ -37,12 +26,6 @@ https://obstreamx.click/live/fq0wnvxdtq.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edge2caster.pro/hls/eJmauBDCIf.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Congo DR at England | English 1 (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Congo DR at England | English 1 (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streams.center
-#EXTVLCOPT:http-origin=https://streams.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
-
 #EXTINF:-1 tvg-chno="203" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Congo DR at England | Spanish 1 (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Congo DR at England | Spanish 1 (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streams.center
 #EXTVLCOPT:http-origin=https://streams.center
@@ -54,12 +37,6 @@ https://edgestreams.pro/hls/b0h5fNwDKH.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cp11.adabmedia.com/hls2/sport.m3u8
-
-#EXTINF:-1 tvg-chno="209" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] England vs DR Congo 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] England vs DR Congo 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://www.rtmpcdn.com/live/cctv5.m3u8
 
 #EXTINF:-1 tvg-chno="210" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] England vs DR Congo HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] England vs DR Congo HD (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -73,23 +50,11 @@ https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8
 
-#EXTINF:-1 tvg-chno="233" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Senegal at Belgium | Arabic 1 (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Senegal at Belgium | Arabic 1 (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streams.center
-#EXTVLCOPT:http-origin=https://streams.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8
-
 #EXTINF:-1 tvg-chno="234" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Senegal at Belgium | English 1 (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Senegal at Belgium | English 1 (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streams.center
 #EXTVLCOPT:http-origin=https://streams.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8
-
-#EXTINF:-1 tvg-chno="235" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Senegal at Belgium | Spanish 1 (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Senegal at Belgium | Spanish 1 (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streams.center
-#EXTVLCOPT:http-origin=https://streams.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestreams.pro/hls/b0h5fNwDKH.m3u8
 
 #EXTINF:-1 tvg-chno="239" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Spanish Feed (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Spanish Feed (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streams.center
